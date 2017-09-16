@@ -18,7 +18,7 @@ live_stream_def : _nameless.0000.00A0.2CBE.4F00 {
  stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_SC|Cadena SER|Pop|ES|128|1"
  stream_data[]: "http://hitfm.es.audio1.glb.ipercast.net:8000/hitfm.es/mp3|Hit FM|\xc3\x89xitos|ES|128|1"
  stream_data[]: "http://195.55.74.208/rtva/canalsurradio_master.mp3|Canal Sur|radio|ES|128|1"
- stream_data[]: "http://195.10.2.99/rtva/canalfiestaradio_master.mp3|Canal Fiesta|radio|ES|128|1"
+ stream_data[]: "http://195.10.10.224/rtva/canalfiestaradio_master.mp3?GKID=233a164a9ad711e7bbd900163e914f69&fspref=aHR0cDovL3d3dy5saXN0ZW5saXZlLmV1L3NwYWluLmh0bWw%3D|Canal Fiesta|radio|ES|128|1"
  stream_data[]: "http://ibizaglobalradio.streaming-pro.com:8024|Ibiza Global Radio|radio|ES|128|1"
  stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_SC|Radio ole|radio|ES|128|1"
  stream_data[]: "http://195.10.10.222/cope/megastar.mp3|MEGASTAR FM|\xc3\x89xitos|ES|128|1"
