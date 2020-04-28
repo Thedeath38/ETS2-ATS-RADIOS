@@ -68,6 +68,7 @@ SiiNunit
         stream_data[]: "https://radiott-web.streaming-pro.com:6003/radiott.mp3|RadioTeleTaxi|Flamenco|CAT|96"
         stream_data[]: "http://flucast-b05-01.flumotion.com/cope/rockfm-low.mp3|RockFM Link2|Rock|ES|96"
         stream_data[]: "http://lams02.xtraradio.nl/xtrafm|XtraFM|Dance|ES|192"
+        stream_data[]: "http://radiomarca.streaming-pro.com:8030/radiomarca.mp3|RadioMarcaGeneral|Deportes|ES|96"
 
 
 #   stream_data[17]: "http://flaixfmweb.streaming-pro.com:8000/;mp3|FlaixFM|Dance|ES|128|1"
