@@ -9,8 +9,8 @@ SiiNunit
         stream_data[]: "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3|Canal Fiesta|radio|ES|128"
         stream_data[]: "https://rtva-live-radio.flumotion.com/rtva/csr.mp3|Canal Sur|radio|ES|128"
         stream_data[]: "http://livestreaming.esradio.fm/stream64.mp3|EsRadio|radio|ES|128"
-        stream_data[]: "http://astreaming.vibefm.ro:8000/EuropaFM_aac|EuropaFM|\xc3\x89xitos|ES|128"
-        stream_data[]: "https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3|Hit FM|\xc3\x89xitos|ES|128"
+        stream_data[]: "https://str1.mediatelekom.net:9950/stream|EuropaFM|\xc3\x89xitos|ES|128"
+        stream_data[]: "https://streaming12.elitecomunicacion.es/proxy/hitfmgranada/stream|Hit FM|\xc3\x89xitos|ES|128"
         stream_data[]: "http://ibizaglobalradio.streaming-pro.com:8024|Ibiza Global Radio|radio|ES|128"
         stream_data[]: "http://kissfm.kissfmradio.cires21.com/kissfm.mp3|KissFM|80s|ES|128"
         stream_data[]: "https://s47.myradiostream.com:13914/;|Loca FM|Musica|ES|128"
@@ -18,7 +18,7 @@ SiiNunit
         stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_SC|Los 40 Principales|\xc3\x89xitos|ES|128"
         stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/M80RADIO_SC|M80 Radio|80s|ES|128"
         stream_data[]: "https://megastar-cope-rrcast.flumotion.com/cope/megastar.mp3|MEGASTAR FM|\xc3\x89xitos|ES|128"
-        stream_data[]: "https://laradiossl.online:10674/;|Maxima FM|Electronica|ES|128"
+        stream_data[]: "http://stream.zeno.fm/nrwv1923czzuv|Maxima FM|Electronica|ES|128"
         stream_data[]: "https://laradiossl.online:10307/;|Melodia FM|radio|ES|128"
         stream_data[]: "https://stream.zeno.fm/dzqaazsn3p8uv|OndaCero|Variedad|ES|96"
         stream_data[]: "https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3|Radio Cope|radio|ES|128"
@@ -26,12 +26,11 @@ SiiNunit
         stream_data[]: "https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high|Radio Clasica|Clasica|ES|96"
         stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_ASO_JEREZ.mp3|Radio ole|radio|ES|128"
         stream_data[]: "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3|Rock FM|Rock|ES|96"
-        stream_data[]: "http://19643.live.streamtheworld.com/LOS40_CLASSIC.mp3|LOS 40 CLASSIC|80s|ES|128"
+        stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3|LOS 40 CLASSIC|80s|ES|128"
         stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_BENIDORM.mp3|LOS 40 DANCE|Musica|ES|128"
 
 
-        stream_data[]: "http://catradio.ccma.audioemotion.stream.flumotion.com/ccma/catradio.mp3|CatRadio|radio|CAT|128"
-        stream_data[]: "https://stream.flaixfm.cat/icecast|Flaix FM|Musica|CAT|128"
+        stream_data[]: "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/65afe4a0357cec56667ac739|Flaix FM|Musica|CAT|128"
         stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3|RAC 1|Noticias y Futbol|CAT|64"
         stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3|RAC 105|Variedad|CAT|128"
 
@@ -40,7 +39,6 @@ SiiNunit
         stream_data[]: "https://dispatcher.rndfnk.com/crtve/rne5/mad/mp3/high|Radio 5 RNE|Nacional|ES|96"
 
         #New
-        stream_data[]: "http://91.121.155.204:8022/stream/;mp3|1000 Hits Spain|Exitos|ES|128"
         stream_data[]: "https://stream.mediasector.es/radio/8000/activafm-lacostera.mp3|ActivaFM|Pop|ES|128"
         stream_data[]: "https://streaming.enacast.com:8000/ahoraradiogelvesHD.mp3|AhoraYaRadio|80s y 90s|ES|128"
         stream_data[]: "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/65afe517d47dc208abd053d2|Andorra1 Flaixbac|Exitos|AND|64"
@@ -65,4 +63,5 @@ SiiNunit
 }
 
 }
+
 
