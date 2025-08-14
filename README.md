@@ -1,6 +1,6 @@
 # ETS2-RADIOS
 ## Guía de Instalación:
- 1. Descargar el archivo live_streams.sii: [Descargar Aquí](https://github.com/Thedeath38/ETS2-RADIOS/releases/download/v1.00/live_streams.sii)   
+ 1. Descargar el archivo live_streams.sii: [Descargar Aquí](https://github.com/Thedeath38/ETS2-RADIOS/releases/download/v1.01/live_streams.sii)   
 
  2. Copiar ese archivo en 
     - %USERPROFILE%\documents\Euro Truck Simulator 2
