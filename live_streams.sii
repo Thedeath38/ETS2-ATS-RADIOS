@@ -2,20 +2,19 @@ SiiNunit
 {
     live_stream_def : _nameless.1fd.1361.4da0 {
 
-
         stream_data[]: "https://cadena100-cope-rrcast.flumotion.com/cope/cadena100-low.mp3|Cadena 100|Pop|ES|128"
-        stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3|Cadena Dial|Pop|ES|128"
+        stream_data[]: "https://19993.live.streamtheworld.com/CADENADIAL.mp3|Cadena Dial|Pop|ES|128"
         stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_SC|Cadena SER|Pop|ES|128"
         stream_data[]: "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3|Canal Fiesta|radio|ES|128"
         stream_data[]: "https://rtva-live-radio.flumotion.com/rtva/csr.mp3|Canal Sur|radio|ES|128"
         stream_data[]: "http://livestreaming.esradio.fm/stream64.mp3|EsRadio|radio|ES|128"
         stream_data[]: "https://str1.mediatelekom.net:9950/stream|EuropaFM|\xc3\x89xitos|ES|128"
         stream_data[]: "https://streaming12.elitecomunicacion.es/proxy/hitfmgranada/stream|Hit FM|\xc3\x89xitos|ES|128"
+        stream_data[]: "http://stm1.emiteonline.com:8003/hitradio|Hit Radio FM|Pop|ES|112"
         stream_data[]: "http://ibizaglobalradio.streaming-pro.com:8024|Ibiza Global Radio|radio|ES|128"
         stream_data[]: "http://kissfm.kissfmradio.cires21.com/kissfm.mp3|KissFM|80s|ES|128"
         stream_data[]: "https://s47.myradiostream.com:13914/;|Loca FM|Musica|ES|128"
         stream_data[]: "https://s2.we4stream.com/listen/loca_dance/live|Loca FM - Dance|Musica|ES|128"
-        stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_SC|Los 40 Principales|\xc3\x89xitos|ES|128"
         stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/M80RADIO_SC|M80 Radio|80s|ES|128"
         stream_data[]: "https://megastar-cope-rrcast.flumotion.com/cope/megastar.mp3|MEGASTAR FM|\xc3\x89xitos|ES|128"
         stream_data[]: "http://stream.zeno.fm/nrwv1923czzuv|Maxima FM|Electronica|ES|128"
@@ -26,22 +25,18 @@ SiiNunit
         stream_data[]: "https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high|Radio Clasica|Clasica|ES|96"
         stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_ASO_JEREZ.mp3|Radio ole|radio|ES|128"
         stream_data[]: "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3|Rock FM|Rock|ES|96"
+        stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_SC|Los 40 Principales|\xc3\x89xitos|ES|128"
         stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3|LOS 40 CLASSIC|80s|ES|128"
         stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_BENIDORM.mp3|LOS 40 DANCE|Musica|ES|128"
-
-
+        stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3|LOS 40 URBAN|Musica|ES|128"
         stream_data[]: "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/65afe4a0357cec56667ac739|Flaix FM|Musica|CAT|128"
         stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3|RAC 1|Noticias y Futbol|CAT|64"
         stream_data[]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3|RAC 105|Variedad|CAT|128"
-
-        
         stream_data[]: "https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high|RNE|Variedad|ES|96"
         stream_data[]: "https://dispatcher.rndfnk.com/crtve/rne5/mad/mp3/high|Radio 5 RNE|Nacional|ES|96"
-
-        #New
         stream_data[]: "https://stream.mediasector.es/radio/8000/activafm-lacostera.mp3|ActivaFM|Pop|ES|128"
         stream_data[]: "https://streaming.enacast.com:8000/ahoraradiogelvesHD.mp3|AhoraYaRadio|80s y 90s|ES|128"
-        stream_data[]: "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/65afe517d47dc208abd053d2|Andorra1 Flaixbac|Exitos|AND|64"
+        stream_data[]: "https://streaming.giraweb.com/8010/stream|Andorra1 Flaixbac|Exitos|AND|64"
         stream_data[]: "https://ibizasonica.streaming-pro.com:8001/bluemarlin|Blue Marlin Ibiza|Electronica|ES|128"
         stream_data[]: "http://185.23.192.118:8006/;|CadenaDigital|Top40|ES|128"
         stream_data[]: "https://lead-server.de:1551/stream/2/;|ClassicVideoGames|MusicaVideojuegos|NA|96"
@@ -49,6 +44,7 @@ SiiNunit
         stream_data[]: "https://stream.zeno.fm/fz0bc82wn0hvv|Espacio4|Variedad|ES|112"
         stream_data[]: "https://azura.abcorp.es/radio/8030/live|Gozadera FM|Reggaeton|ES|128"
         stream_data[]: "https://streams.radio.co/sddfa96b70/listen|Ibiza Sonica|Electronica|ES|128"
+        stream_data[]: "https://kisskiss.fluidstream.eu/ibiza.mp3|Radio Ibiza|Electrónica|ESP|128|1"
         stream_data[]: "http://server6.20comunicacion.com:8044/;stream.mp3|MortalFM|Dance|ES|128"
         stream_data[]: "https://stream.emisorasmusicales.net/listen/muybuena/muybuena-valencia.mp3|MuyBuena Valencia|Exitos|ES|96"
         stream_data[]: "http://streaming.enantena.com:8000/onamar128.mp3|OnaMarFM|Exitos|CAT|128"
@@ -60,8 +56,21 @@ SiiNunit
         stream_data[]: "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3|RockFM Link2|Rock|ES|96"
         stream_data[]: "http://sonic.mediatelekom.net:9330/;|XtraFM|Dance|ES|192"
         stream_data[]: "https://malagafm.streaming-pro.com:8131/malagafmmobile|RadioMarcaMalaga|Deportes|ES|96"
+        stream_data[]: "http://streams1.mdtradio.com:8020/mdtweb|MDT Radio|Techno|ESP|128|1"
+        stream_data[]: "http://stm1.emiteonline.com:8008/spektrafm|Spektra FM|Dance|ESP|128|1"
+        stream_data[]: "https://dreamsiteradiocp2.com/proxy/rmspain2?mp=/stream|Radio María|Católica|ESP|32|1"
+        stream_data[]: "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3|Radio Euskadi|Clásicos|EUS|128|1"
+        stream_data[]: "http://ns3.mycloud-apps.es:8039/stream|Vida FM|Variedad|ESP|96|1"
+        stream_data[]: "https://stream.mediasector.es/radio/8120/motiva.mp3|Motiva FM|Reggaeton|ESP|192|1"
+        stream_data[]: "https://pr1cen101.emisionlocal.com/proxy/rememberfm?mp=/LIVE|Remember FM|Techno|ESP|128|1"
+        stream_data[]: "https://stream.mediasector.es/radio/8030/bikinifm-valencia.mp3|Bikini FM|Dance|ESP|128|1"
+        stream_data[]: "https://server8.emitironline.com:18571/atica|Atica FM|Dance|ESP|128|1"
+        stream_data[]: "https://stream.mediasector.es/radio/8090/laquesuena-alicante.mp3|La Que Suena FM|Variedad|ESP|128|1"
+        stream_data[]: "https://srv7031.dns-lcinternet.com/8050/stream|Radio Sierra|Talk|ESP|96|1"
+        stream_data[]: "https://radio.vinilofm.es/radio/8000/bizkaia.mp3|Vinilo FM|Rock|ESP|128|1"
 }
 
 }
+
 
 
